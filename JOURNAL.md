@@ -12,3 +12,11 @@ Spent about an hour designing the schematic and trying to figure out how to impo
 ![schematic](images/schematic-v1.png)
 
 **Total time spent: 1 hour, 50% time logged on lapse**
+
+# October 2: Completed designing the schematic
+
+Spent about an 45 minutes finishing off the schematic adding the battery sense and the mounting holes (according to the guide). Struggled quite a bit at the mounting holes because i didnt know where to look for the right symbols
+
+![schematic](images/schematic-v2.png)
+
+**Total time spent: 0.75hr**
