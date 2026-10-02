@@ -20,3 +20,11 @@ Spent about an 45 minutes finishing off the schematic adding the battery sense a
 ![schematic](images/schematic-v2.png)
 
 **Total time spent: 0.75hr**
+
+# October 2: Assigned footprints to symbols
+
+Simple step here. I assigned the correct footprints to the respective symbols and now, im ready to go for the pcb :D
+
+![symbols](images/footprints-assigned.png)
+
+**Total time spent: 0.25hr**
