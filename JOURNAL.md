@@ -41,6 +41,6 @@ This was really tough. I spent a lot of time ordering the switches and arranging
 
 This was really tough, but easier compared to the previous step. I spent a little more time placing the diodes corresponding to the switches and arranged them in the same order as the switches in the position.
 
-<img width="1482" height="722" alt="image" src="https://github.com/user-attachments/assets/7e50710d-4aad-4597-a36c-266b8094246f" />
+<img width="1482" height="722" alt="image" src="https://github.com/user-attachments/assets/5156b178-82a6-47c0-9d01-64f3737644a2" />
 
 **Total time spent: 0.3hrs**
