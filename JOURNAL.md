@@ -28,3 +28,11 @@ Simple step here. I assigned the correct footprints to the respective symbols an
 ![symbols](images/footprints-assigned.png)
 
 **Total time spent: 0.25hr**
+
+# October 4: Arranges switched in PCB
+
+This was really tough. I spent a lot of time ordering the switches and arranging them in the correct position. I had to sit and drag each one of them separately and do it twice because i had 2 sets of keys :==. I next have to place all the 40 diodes in their places. Byee
+
+<img width="796" height="377" alt="image" src="https://github.com/user-attachments/assets/b37980db-6288-4a46-b238-4ec65f038055" />
+
+**Total time spent: 1.3hrs**
