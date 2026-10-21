@@ -44,3 +44,11 @@ This was really tough, but easier compared to the previous step. I spent a littl
 <img width="1482" height="722" alt="image" src="https://github.com/user-attachments/assets/5156b178-82a6-47c0-9d01-64f3737644a2" />
 
 **Total time spent: 0.3hrs**
+
+# October 21: Arrange Rest of the parts
+
+I spent about an hour trying out different stuff and arrangements, turns out, i didnt know what the mousebites, the mounting points, resistors and the test points did, i broke my head over what to do with those, at the end, with some help, i managed to finish arranging those.
+
+<img width="1352" height="602" alt="image" src="https://github.com/user-attachments/assets/4cd575ca-899b-4590-ba1f-e2886c203322" />
+
+**Total time spent: 1hr**
